@@ -7,6 +7,8 @@ int main()
 {
     cout << "Hello World!\n";
     cout << "HELLO\n";
+    cout << " chao em a dung day tu chieu\n";
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
